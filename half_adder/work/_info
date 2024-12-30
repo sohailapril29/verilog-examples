@@ -1,0 +1,77 @@
+m255
+K4
+z2
+Z0 !s12c _opt
+Z1 !s99 nomlopt
+R0
+R1
+R0
+R1
+R0
+R1
+!s11f vlog 2023.3 2023.07, Jul 17 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z2 d/media/sohail/sohails/verilog-examples/half_adder
+T_opt
+!s110 1735570251
+V_54F=l]g7?bPC58A]`d3A2
+04 5 4 work ha_tb fast 0
+=1-000ae431a4f1-6772b34b-601d7-2302
+R1
+!s12b OEM100
+!s124 OEM10U2 
+o-quiet -auto_acc_if_foreign -work work
+Z3 tCvgOpt 0
+n@_opt
+OL;O;2023.3;77
+vha
+Z4 2half_adder.v|tb_half_adder.v
+Z5 !s110 1735570248
+!i10b 1
+!s100 j7GT[i``fAZ=e=LRN>UW?2
+I>FdVHCXFjOcBfC]KB5hgo2
+R2
+w1735568175
+8half_adder.v
+Fhalf_adder.v
+!i122 6
+L0 1 8
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OL;L;2023.3;77
+r1
+!s85 0
+31
+Z8 !s108 1735570248.000000
+Z9 !s107 tb_half_adder.v|half_adder.v|
+Z10 !s90 half_adder.v|tb_half_adder.v|
+!i113 0
+Z11 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+vha_tb
+R4
+R5
+!i10b 1
+!s100 TiglC;dbC5@^7e<ddPCa?3
+ITLW63V]g]oU7Q:3MIiVFO0
+R2
+w1735570235
+8tb_half_adder.v
+Ftb_half_adder.v
+!i122 6
+L0 1 17
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R3
