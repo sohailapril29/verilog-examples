@@ -1,0 +1,92 @@
+m255
+K4
+z2
+Z0 !s12c _opt1
+Z1 !s99 nomlopt
+R0
+R1
+R0
+R1
+Z2 !s12c _opt
+R1
+R2
+R1
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z3 d/media/sohail/sohails/verilog-examples/counters/synchronous
+T_opt
+!s110 1735621250
+V`mJGjRZP_BKSc4JmQ<V:z3
+Z4 04 20 4 work active_high_reset_tb fast 0
+=1-000ae431a4f1-67737a82-ad857-17e7
+R1
+Z5 !s12b OEM100
+Z6 !s124 OEM10U2 
+Z7 o-quiet -auto_acc_if_foreign -work work
+Z8 tCvgOpt 0
+n@_opt
+Z9 OL;O;2023.3;77
+R3
+T_opt1
+!s110 1735621569
+Vjo?@OVm<W_[QPGE2WaJRE2
+R4
+=1-000ae431a4f1-67737bc1-35569-1c73
+R1
+R5
+R6
+R7
+R8
+n@_opt1
+R9
+vactive_high_reset
+Z10 2active_high_reset.v|active_high_reset_tb.v
+Z11 !s110 1735621567
+!i10b 1
+!s100 jNcW@FChfTdigQ3B36N?<2
+I1U=1e60Wk]cQUC;fi;N9R0
+R3
+w1735621244
+8active_high_reset.v
+Factive_high_reset.v
+!i122 15
+L0 1 12
+Z12 VDg1SIo80bB@j0V0VzS_@n1
+Z13 OL;L;2023.3;77
+r1
+!s85 0
+31
+Z14 !s108 1735621567.000000
+Z15 !s107 active_high_reset_tb.v|active_high_reset.v|
+Z16 !s90 active_high_reset.v|active_high_reset_tb.v|
+!i113 0
+Z17 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R8
+vactive_high_reset_tb
+R10
+R11
+!i10b 1
+!s100 24DB_lo>[IYZ`zXJHzR_S2
+IngD9IJD0RW30_j5_V5QY71
+R3
+w1735621562
+8active_high_reset_tb.v
+Factive_high_reset_tb.v
+!i122 15
+L0 3 36
+R12
+R13
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 0
+R17
+R8

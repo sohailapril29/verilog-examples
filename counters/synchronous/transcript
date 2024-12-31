@@ -1,0 +1,34 @@
+# vsim -c active_high_reset_tb 
+# Start time: 10:36:09 on Dec 31,2024
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# //  Questa Intel Starter FPGA Edition-64
+# //  Version 2023.3 linux_x86_64 Jul 17 2023
+# //
+# //  Copyright 1991-2023 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  QuestaSim and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading work.active_high_reset_tb(fast)
+# Time=0ns, clk=0, rst=0, count=xxxx
+# Time=5ns, clk=1, rst=1, count=0000
+# Time=10ns, clk=0, rst=0, count=0000
+# Time=15ns, clk=1, rst=0, count=0001
+# Time=20ns, clk=0, rst=0, count=0001
+# Time=25ns, clk=1, rst=0, count=0010
+# Time=30ns, clk=0, rst=0, count=0010
+# Time=35ns, clk=1, rst=0, count=0011
+# Time=40ns, clk=0, rst=0, count=0011
+# Time=45ns, clk=1, rst=0, count=0100
+# Time=50ns, clk=0, rst=0, count=0100
+# Time=55ns, clk=1, rst=0, count=0101
+# ** Note: $stop    : active_high_reset_tb.v(30)
+#    Time: 60 ns  Iteration: 0  Instance: /active_high_reset_tb
+# Break at active_high_reset_tb.v line 30
+# Stopped at active_high_reset_tb.v line 30
