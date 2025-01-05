@@ -1,5 +1,0 @@
-Time resolution is 1 ps
-Time = 0 | a = 0, b = 1 | sum = 1, co = 0
-Time = 5000 | a = 1, b = 0 | sum = 1, co = 0
-Time = 10000 | a = 1, b = 1 | sum = 0, co = 1
-$stop called at time : 25 ns : File "/media/sohail/sohails/verilog-examples/project_1/project_1.srcs/sim_1/new/tb_half_adder.v" Line 29
