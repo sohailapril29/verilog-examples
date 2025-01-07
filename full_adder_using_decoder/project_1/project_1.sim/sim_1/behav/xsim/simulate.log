@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+time =0, a=0,b=0,cin=0,sum=0,carry=0
+time =5000, a=0,b=0,cin=1,sum=1,carry=0
+time =10000, a=0,b=1,cin=0,sum=1,carry=0
+time =15000, a=0,b=1,cin=1,sum=0,carry=1
+time =20000, a=1,b=0,cin=0,sum=1,carry=0
+time =25000, a=1,b=0,cin=1,sum=0,carry=1
+time =30000, a=1,b=1,cin=0,sum=0,carry=1
+time =35000, a=1,b=1,cin=1,sum=1,carry=1
+$stop called at time : 45 ns : File "/media/sohail/sohails/verilog-examples/full_adder_using_decoder/project_1/project_1.srcs/sim_1/new/tb.v" Line 27

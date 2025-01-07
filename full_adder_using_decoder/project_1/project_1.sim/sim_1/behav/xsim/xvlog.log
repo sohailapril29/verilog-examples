@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/media/sohail/sohails/verilog-examples/full_adder_using_decoder/project_1/project_1.srcs/sources_1/new/fa.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decoder
+INFO: [VRFC 10-311] analyzing module fa_decoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "/media/sohail/sohails/verilog-examples/full_adder_using_decoder/project_1/project_1.srcs/sim_1/new/tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_fa_decoder
