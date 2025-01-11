@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Time = 0 | x = 0001, y = 0010, z = 0011 | s = 00110, cout = 0
+Time = 10000 | x = 0001, y = 0010, z = 0001 | s = 00100, cout = 0
+$stop called at time : 20 ns : File "/media/sohail/sohails/verilog-examples/carrysave_adder/carrysave_adder.srcs/sim_1/new/tb_carrysave_adder.v" Line 25
